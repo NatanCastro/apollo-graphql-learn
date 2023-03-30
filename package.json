@@ -1,0 +1,17 @@
+{
+  "name": "apollo-graphql-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "class-validator": "^0.14.0",
+    "graphql": "^15.8.0",
+    "type-graphql": "^1.1.1"
+  }
+}
